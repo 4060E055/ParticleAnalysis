@@ -1,0 +1,10 @@
+C:\Users\adam8\OneDrive\桌面\C#\ParticleAnalysis\ParticleAnalysis\bin\Debug\ParticleAnalysis.exe.config
+C:\Users\adam8\OneDrive\桌面\C#\ParticleAnalysis\ParticleAnalysis\bin\Debug\ParticleAnalysis.exe
+C:\Users\adam8\OneDrive\桌面\C#\ParticleAnalysis\ParticleAnalysis\bin\Debug\ParticleAnalysis.pdb
+C:\Users\adam8\OneDrive\桌面\C#\ParticleAnalysis\ParticleAnalysis\obj\Debug\ParticleAnalysis.Form1.resources
+C:\Users\adam8\OneDrive\桌面\C#\ParticleAnalysis\ParticleAnalysis\obj\Debug\ParticleAnalysis.Properties.Resources.resources
+C:\Users\adam8\OneDrive\桌面\C#\ParticleAnalysis\ParticleAnalysis\obj\Debug\ParticleAnalysis.csproj.GenerateResource.cache
+C:\Users\adam8\OneDrive\桌面\C#\ParticleAnalysis\ParticleAnalysis\obj\Debug\ParticleAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\adam8\OneDrive\桌面\C#\ParticleAnalysis\ParticleAnalysis\obj\Debug\ParticleAnalysis.exe
+C:\Users\adam8\OneDrive\桌面\C#\ParticleAnalysis\ParticleAnalysis\obj\Debug\ParticleAnalysis.pdb
+C:\Users\adam8\OneDrive\桌面\C#\ParticleAnalysis\ParticleAnalysis\obj\Debug\ParticleAnalysis.csproj.AssemblyReference.cache
