@@ -6,8 +6,7 @@ https://www.youtube.com/watch?v=erKI_iJwBnM
 3. 使用IDE   ：Microsoft Visual Studio Community 2019
 4. 成果報告簡報  ：https://drive.google.com/file/d/1gqm-G-NeuUZvE4_Gth6OHjBzQDm1A1DT/view?usp=sharing
 <br>
-<br>
-5. 機台照片：
+<br>5. 機台照片：
 
 
 ![S__68952068](https://user-images.githubusercontent.com/37571816/159678450-545909ac-a5d2-4786-ab90-061ac582d2a9.jpg)
