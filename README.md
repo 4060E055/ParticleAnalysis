@@ -5,3 +5,8 @@ https://www.youtube.com/watch?v=erKI_iJwBnM
 2. 負責工作：用C# 開發粒子檢測演算法
 3. 使用IDE：Microsoft Visual Studio Community 2019
 
+機台照片：
+![S__68952068](https://user-images.githubusercontent.com/37571816/159677595-b836b64e-bd80-4701-a4a4-994a2ea65972.jpg)
+<>
+掃描中照片：
+![S__68952067](https://user-images.githubusercontent.com/37571816/159677717-36b92254-f71f-4b59-b5fd-c1e1956c9eb0.jpg)
