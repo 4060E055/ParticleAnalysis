@@ -10,7 +10,6 @@ https://www.youtube.com/watch?v=erKI_iJwBnM
 5. 機台照片：
 ![S__68952068](https://user-images.githubusercontent.com/37571816/159678450-545909ac-a5d2-4786-ab90-061ac582d2a9.jpg)
  
-<br>
-<br>
+
 6. 掃描中照片：
 ![S__68952067](https://user-images.githubusercontent.com/37571816/159678470-008de10b-812a-409e-b5c8-e4fd1699dbfe.jpg)
